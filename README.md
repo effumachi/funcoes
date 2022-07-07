@@ -1,4 +1,4 @@
-# Livro sobre funções reais de uma variável real.
+# Introdução a Funções
 
 ## Revisão sobre conjuntos numéricos e equações
 ### - Introdução
@@ -16,6 +16,5 @@
 ### - Funções quadráticas
 ### - Raízes de funções quadráticas
 ### - Gráficos de funções quadráticas
-
 
 ## Bibliografia
