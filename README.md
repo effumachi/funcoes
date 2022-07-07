@@ -16,3 +16,6 @@
 ### - Funções quadráticas
 ### - Raízes de funções quadráticas
 ### - Gráficos de funções quadráticas
+
+
+## Bibliografia
